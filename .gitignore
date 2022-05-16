@@ -1,0 +1,9 @@
+*/.pytest_cache
+logs/*
+imgs/*
+.fitlog
+.fitconfig
+logs
+tmp/*
+*.mmd
+data_bak/*
